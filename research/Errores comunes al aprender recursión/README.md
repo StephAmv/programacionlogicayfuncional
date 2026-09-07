@@ -1,7 +1,9 @@
 # Errores comunes al aprender recursión: falta de caso base y desbordamiento de pila
 
-**Tema 29 — Programación Lógica y Funcional, 2026 "B"**<br>
-**Lenguaje de los ejemplos:** Elixir 1.18 / Erlang/OTP 27
+**Asignatura:** Programación lógica y funcional - 04:00 pm  
+**Alumno:** Stephanie Ariana Medrano Vargas - 23212013
+
+---
 
 ## Introducción
 
